@@ -2,6 +2,8 @@ OTP-based Login API
 
 This project provides two APIs for OTP-based login functionality using Node.js and MongoDB.
 
+GITHUB LINK - https://github.com/nutankumari211/OTPBasedLogin
+
 Prerequisites
 Before running the project, make sure you have the following installed:
 
