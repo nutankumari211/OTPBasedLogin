@@ -1,3 +1,5 @@
+# Hosted_Link -   https://otp-based-login-hxd0.onrender.com/
+
 OTP-based Login API
 
 This project provides two APIs for OTP-based login functionality using Node.js and MongoDB.
@@ -25,9 +27,10 @@ The server will start running on http://localhost:3000.
 
 API Endpoints
 
-Generate OTP
+# Generate OTP
 
-Endpoint: POST http://localhost:3000/authroutes/generateOTP
+1. Endpoint: 
+ POST http://localhost:3000/authroutes/generateOTP
 
 Request Body:
 
@@ -40,8 +43,8 @@ Response:
 "message": "OTP generated successfully. Please check your email."
 }
 
-Login
-Endpoint: http://localhost:3000/authroutes/login
+# Login
+2. Endpoint: http://localhost:3000/authroutes/login
 
 Request Body:
 
